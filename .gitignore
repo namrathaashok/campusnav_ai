@@ -17,3 +17,5 @@ desktop.ini
 # IDE files
 .vscode/
 .idea/
+
+.vercel
